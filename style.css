@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(10, 128, 14);
+    fount-size: 28px;
+    font-style: normal;
+    }
+
+h2 {
+    color: #031b5d;
+    fount-size: 10px;
+    font-style: normal;
+    }
+
+Button {
+        background-color: rgb(0, 0, 0);
+        color: white;
+        padding: 10px 16px;
+        border: none;
+        border-radius: 8px;
+        align-items: center;
+        }
+.vabar{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    gap: 16x;
+    flex-direction: flex-start;
+}
+
+.vabar nav {
+    display:flex;
+}
